@@ -1,2 +1,55 @@
-# Purwadhika_Capstone_Modul_2
-This project is created to fullfil the Purwadhika Data Science Bootcamp capstone project module 2. This project analyses Airbnb Bangkok Listing Dataset. This project mainly focuses on listings and host performances.
+# **Airbnb Listings Bangkok**
+Dibuat oleh: *Akmal Raafid Taufiqurrahman*
+- **Sumber Data: https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF**
+
+## **Content**
+
+## **Business Understanding**
+
+### **Latar Belakang**
+Airbnb merupakan salah satu platform penyewaan properti jangka pendek yang sangat populer, terutama di kota-kota besar seperti Bangkok. Dengan ribuan listing yang tersedia, kompetisi antara pemilik properti semakin tinggi. Oleh karena itu, pemilik properti maupun calon investor perlu memahami bagaimana faktor-faktor seperti harga, lokasi, ketersediaan, dan ulasan memengaruhi tingkat hunian dan pendapatan dari properti mereka.
+
+Airbnb memperoleh keuntungan utamanya melalui biaya layanan yang dikenakan pada setiap transaksi antara tamu dan tuan rumah. Saat seorang tamu memesan akomodasi, Airbnb mengenakan biaya layanan sekitar 5% hingga 15% dari subtotal pemesanan, tergantung pada berbagai faktor seperti lokasi dan lama menginap. Di sisi lain, tuan rumah juga dikenakan biaya layanan oleh Airbnb, biasanya sekitar 3% dari subtotal pemesanan. Selain layanan akomodasi, Airbnb juga menawarkan produk tambahan seperti Airbnb Experiences, yaitu pengalaman lokal yang dikurasi, di mana perusahaan juga mengambil komisi dari setiap transaksi, bahkan hingga 20% dalam beberapa kasus. Meskipun tidak sebesar biaya layanan, Airbnb juga mendapatkan pendapatan dari fitur promosi berbayar bagi tuan rumah yang ingin meningkatkan visibilitas properti mereka di platform. Seluruh model bisnis Airbnb berlandaskan pada sistem platform digital yang menghubungkan pihak penyewa dan pemilik properti tanpa harus memiliki aset properti sendiri, menjadikannya perusahaan berbasis teknologi dengan margin operasional yang tinggi.
+
+Dalam satu dekade terakhir, platform penyewaan jangka pendek seperti Airbnb telah mengubah cara orang memesan akomodasi dan cara individu memperoleh pendapatan dari properti mereka. Di kota-kota besar seperti Bangkok, yang merupakan salah satu destinasi wisata paling populer di dunia, Airbnb telah menjadi pilihan utama baik bagi wisatawan lokal maupun internasional.
+
+Dengan meningkatnya jumlah listing dari tahun ke tahun, persaingan antar pemilik properti semakin ketat. Tidak hanya sekadar menyediakan tempat menginap, para host kini juga dituntut untuk menetapkan harga kompetitif, meningkatkan visibilitas, serta menjaga kualitas layanan agar tetap relevan di pasar. Di sisi lain, calon investor juga melihat Airbnb sebagai peluang usaha yang menjanjikan, terutama di lokasi-lokasi strategis dengan tingkat hunian tinggi.
+
+Namun, tantangan yang muncul adalah bagaimana memahami faktor-faktor yang berpengaruh terhadap tingkat keberhasilan sebuah listing. Faktor seperti jenis kamar, lokasi geografis, jumlah ulasan, ketersediaan properti, serta harga memiliki kontribusi signifikan terhadap daya tarik listing tersebut. Tanpa pemahaman yang tepat berbasis data, keputusan bisnis yang diambil bisa kurang efektif dan berisiko menurunkan potensi pendapatan.
+
+Melalui analisis data listing Airbnb di Bangkok, pelaku bisnis dapat memperoleh wawasan yang berguna untuk mengambil keputusan strategis, seperti penetapan harga yang optimal, pemilihan lokasi investasi, serta perencanaan promosi yang tepat sasaran.
+
+Referensi:
+
+Airbnb Help Center. (n.d.). What are Airbnb service fees? https://www.airbnb.com/help/article/104
+
+Airbnb Investor Relations. (2023). Q4 2023 Financial Results. https://investors.airbnb.com
+
+Investopedia. (2023). How Does Airbnb Make Money? https://www.investopedia.com/articles/investing/052615/how-does-airbnb-make-money.asp
+
+### **Permasalahan Bisnis**
+
+Berikut adalah beberapa pertanyaan bisnis yang dapat dijadikan acuan untuk analisis dataset ini:
+
+* Bagaimana lokasi mempengaruhi **popularitas listing** di Bangkok?
+* Bagaimana perbedaan harga antar **distrik**?
+* Bagaimana **reviews** mempengaruhi *demand* suatu listing?
+* Bagaimana **reviews** mempengaruhi performa host?
+* Lokasi mana saja yang menjadi populer dari segi permintaan?
+
+### **Tujuan Analisis (Goals)**
+
+- Mengidentifikasi pengaruh lokasi terhadap popularitas listing di Bangkok untuk mengetahui area yang paling diminati oleh pemesan.
+
+- Menganalisis perbedaan harga antar distrik guna memahami tren harga berdasarkan wilayah geografis.
+
+- Mengevaluasi dampak ulasan (reviews) terhadap tingkat permintaan (demand) sebuah listing, dengan tujuan memberikan insight kepada host dalam meningkatkan daya tarik listing mereka.
+
+- Menilai hubungan antara ulasan dan performa host untuk mengidentifikasi faktor-faktor review yang berkorelasi dengan host yang sukses.
+
+- Menentukan lokasi-lokasi populer berdasarkan tingkat permintaan, sebagai referensi strategis dalam menentukan lokasi listing baru atau investasi properti.
+
+### **Ekspektasi Hasil**
+
+Harapannya pada analisis ini dapat diperoleh insights yang berpengaruh terhadap keputusan strategis, seperti penetapan harga yang optimal, pemilihan lokasi investasi, perencanaan promosi yang tepat sasaran juga actionable recommendation yang strategis.
+
