@@ -81,7 +81,7 @@ Lalu, karakteristik listing yang banyak diminati adalah listing yang terdapat:
 
 2. **Prioritaskan Listing dengan Ulasan Positif**
 
-    Meskipun ulasan tidak menjadi faktor utama, Airbnb bisa mempertimbangkan untuk memberikan sorotan lebih pada listing yang memiliki ulasan positif. Menampilkan rating tinggi pada hasil pencarian dapat memberikan motivasi kepada host untuk lebih fokus pada kualitas pengalaman tamu mereka.
+    Meskipun ulasan tidak menjadi faktor utama, Airbnb bisa mempertimbangkan untuk memberikan sorotan lebih pada listing yang memiliki ulasan positif. Menampilkan rating tinggi pada hasil pencarian dapat memberikan motivasi kepada host untuk lebih fokus pada kualitas pengalaman tamu mereka. Hal ini dapat dilakukan dengan membuat segmen atau container baru pada aplikasi dan web yang berisikan Listing yang sedang memiliki ulasan bagus atau sedang ramai dipesan beberapa waktu terakhir
 
 3. **Tingkatkan Fitur Pencarian Lokasi Berbasis Kebutuhan Pemesan**
 
@@ -97,4 +97,4 @@ Lalu, karakteristik listing yang banyak diminati adalah listing yang terdapat:
 
 5. **Prioritaskan Listing yang memiliki Lokasi Strategis**
 
-    Melihat dari analisis yang telah dilakukan, Airbnb bisa merekomendasikan listing yang berlokasi dekat dengan tempat wisata populer. Hal ini memungkinkan menarik pemesan untuk memilih listing yang dekat 
+    Melihat dari analisis yang telah dilakukan, Airbnb bisa merekomendasikan listing yang berlokasi dekat dengan tempat wisata populer. Hal ini memungkinkan menarik pemesan untuk memilih listing yang dekat dengan tempat wisata tujuan. Ini dapat dilakukan dengan membuat promosi dalam aplikasi atau web seperti memunculkan `Place of Interest` yang terletak di sekitar listing yang sedang dilihat oleh pemesan.
