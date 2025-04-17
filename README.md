@@ -4,6 +4,15 @@ Dibuat oleh: *Akmal Raafid Taufiqurrahman*
 
 ## **Content**
 
+* **Data Understanding**
+* **Exploratory Data Analysis**
+* **Data Manipulation & Preprocessing**
+* **Data Analysis**
+    * Listing Analysis
+        * Non-Luxury Listing
+        * Luxury Listing Included
+    * Host Analysis
+
 ## **Business Understanding**
 
 ### **Latar Belakang**
