@@ -53,3 +53,48 @@ Berikut adalah beberapa pertanyaan bisnis yang dapat dijadikan acuan untuk anali
 
 Harapannya pada analisis ini dapat diperoleh insights yang berpengaruh terhadap keputusan strategis, seperti penetapan harga yang optimal, pemilihan lokasi investasi, perencanaan promosi yang tepat sasaran juga actionable recommendation yang strategis.
 
+### **Conclusion & Recommendation**
+
+**Conclusion**
+
+Berdasarkan analisis yang telah dilakukan berdasarkan beberapa pendekatan terhadap `listing`, untuk meninjau lebih jauh karakteristik listing yang bertujuan untuk memberikan insight dan rekomendasi, berikut adalah rangkuman kesimpulan dari analisis yang telah dilakukan:
+
+* Lokasi memiliki pengaruh terhadap jumlah booking dan banyaknya listing. Hal ini menjadikan persaingan yang ketat. 
+* Lokasi memiliki pengaruh terhadap harga. Lokasi yang memiliki akses transportasi publik yang baik dan dekat dengan tempat rekreasi cenderung menaikan standar harga listing di lokasi tersebut.
+* Banyak Listing yang memiliki harga dibawah median. Ini disebabkan oleh 
+* Host yang memiliki jumlah listing yang banyak cenderung memiliki jumlah bookings yang banyak tetapi hal ini tidak menjadi faktor utama banyaknya booking.
+* Listing berjenis kamar `Entire Home/Apt` paling sering dibooking. Hal ini menjelaskan bahwa jenis kamar berpengaruh terhadap ketersediaan kamar.
+* Listing yang memiliki ulasan banyak cenderung memiliki jumlah bookings yang lebih besar namun ini bukan menjadi faktor utama.
+
+Lalu, karakteristik listing yang banyak diminati adalah listing yang terdapat:
+
+* Lokasi listing yang memiliki akses transportasi yang baik
+* Dekat dengan area konsentrasi turis (tempat wisata/area komersil)
+* Memiliki ulasan (meskipun tidak signifikan)
+* Merupakan properti yang tergolong pada kategori `Entire home/apt`
+
+**Recommendation**
+
+1. **Pengaturan Harga yang Lebih Strategis**
+
+    Airbnb bisa memberikan saran harga yang lebih strategis bagi host, dengan mempertimbangkan lokasi, fasilitas, dan standar harga pada area tersebut. Misalnya, untuk lokasi dengan banyak turis, saran harga bisa lebih tinggi, sementara untuk lokasi yang lebih jauh dari pusat wisata, saran harga bisa lebih kompetitif.
+
+2. **Prioritaskan Listing dengan Ulasan Positif**
+
+    Meskipun ulasan tidak menjadi faktor utama, Airbnb bisa mempertimbangkan untuk memberikan sorotan lebih pada listing yang memiliki ulasan positif. Menampilkan rating tinggi pada hasil pencarian dapat memberikan motivasi kepada host untuk lebih fokus pada kualitas pengalaman tamu mereka.
+
+3. **Tingkatkan Fitur Pencarian Lokasi Berbasis Kebutuhan Pemesan**
+
+    Airbnb bisa menambahkan filter lokasi yang lebih spesifik, misalnya:
+
+    * Listing yang dekat dengan pusat kota
+    * Listing yang dekat tempat wisata
+    * Listing yang memiliki akses mudah ke transportasi umum
+
+4. **Prioritaskan Listing dengan Tipe Entire Home/Apt**
+
+    Mengingat bahwa jenis kamar Entire Home/Apt lebih sering dibooking, Airbnb dapat menyoroti listing tersebut dalam hasil pencarian atau lebih menyoroti listing berjenis serupa pada aplikasi. Hal ini bisa memberikan motivasi kepada host untuk membuat listing berjenis kamar ini dan juga meningkatkan kemungkinan booking pada listing tersebut. Selain itu, Airbnb juga dapat mempromosikan kamar berjenis Entire Home/Apt kepada calon host agar calon host lebih tertarik untuk membuat listing yang berjenis Entire Home/apt.
+
+5. **Prioritaskan Listing yang memiliki Lokasi Strategis**
+
+    Melihat dari analisis yang telah dilakukan, Airbnb bisa merekomendasikan listing yang berlokasi dekat dengan tempat wisata populer. Hal ini memungkinkan menarik pemesan untuk memilih listing yang dekat 
