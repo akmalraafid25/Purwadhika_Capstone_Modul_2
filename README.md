@@ -1,7 +1,8 @@
 # **Airbnb Listings Bangkok**
 Dibuat oleh: *Akmal Raafid Taufiqurrahman*
 - **Sumber Data: https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF**
-- **Tableau Dashboard: https://public.tableau.com/views/Capstone_Modul_2/RoomTypeProportion?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
+- **Tableau Dashboard: https://public.tableau.com/views/Capstone_Modul_2/RoomTypeProportion?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**-
+- File Notebook ada di dalam file rar. dikarenakan terlalu besar
 
 ## **Content**
 
