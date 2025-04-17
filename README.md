@@ -12,6 +12,7 @@ Dibuat oleh: *Akmal Raafid Taufiqurrahman*
         * Non-Luxury Listing
         * Luxury Listing Included
     * Host Analysis
+* **Conclusion & Recommendation**
 
 ## **Business Understanding**
 
